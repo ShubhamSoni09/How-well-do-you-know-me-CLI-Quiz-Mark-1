@@ -10,7 +10,7 @@ function main(){
 
   
 while(true){
-var userName = readlineSync.question(chalk.yellowBright.bold("\nWelcome Sir,Enter your name to proceed: "));
+var userName = readlineSync.question(chalk.yellowBright.bold("\nWelcome! Enter your name to proceed: "));
 if(userName !== ""){
       break
     }

@@ -16,7 +16,7 @@ var questions = [
 
   {
     question: "4.Which of the following I am fond of ?\nA.Sport Car\nB.Sport bike\nC.Royal Enfield Bullet\nD.90's Scooter\nYour answer: ",
-    answer: ["B","Sports bike"]
+    answer: ["A","Sports Car"]
   },
 
    {
